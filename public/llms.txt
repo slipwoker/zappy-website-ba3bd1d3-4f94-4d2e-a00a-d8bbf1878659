@@ -1,0 +1,79 @@
+# קהת — Generative Engine Optimization Map
+
+> KEHAT is a premium ethnic instrument rental service designed to make learning beautiful, complex traditional instruments accessible to beginners. The brand blends cultural richness with modern premium aesthetics — evoking the warmth of handcrafted instruments, artisan materials, and centuries-old musical traditions from Turkish and Persian cultures. The visual identity is sophisticated and tangible, using sculpted 3D claymorphism design with polished wood grain, stone plinths, and brushed gold accents to communicate both quality and approachability. KEHAT positions itself as a trusted guide for newcomers, offering inspected high-quality instruments at unbeatable rental prices with expert, supportive service.
+
+---
+
+## Pages
+
+### בית
+https://-ba3bd1d3.zappy5.app
+קהת מציעה השכרת כלי נגינה אתניים פרימיום למתחילים. כלים טורקיים ופרסיים מסורתיים, מחירים שאין כמותם ושירות מומחים תומך. התחל את המסע המוזיקלי שלך עוד היום!
+
+### קטלוג
+https://-ba3bd1d3.zappy5.app/catalog
+עיין בקטלוג כלי הנגינה האתניים המובחרים של קהת. כלים טורקיים ופרסיים מבוקרים ואיכותיים להשכרה במחירים נגישים. מצא את הכלי המושלם שלך עכשיו!
+
+### למה כהת
+https://-ba3bd1d3.zappy5.app/why-kehat
+קהת היא הבחירה הראשונה למי שרוצה ללמוד כלי נגינה אתני בסביבה תומכת ומקצועית. שירות אישי, כלים מבוקרים ומחירים שלא תמצא בשום מקום אחר. גלה מה מייחד אותנו!
+
+### צור קשר
+https://-ba3bd1d3.zappy5.app/contact
+יש לך שאלות על השכרת כלי נגינה אתניים? צוות המומחים של קהת כאן בשבילך. צור קשר עוד היום וקבל ייעוץ אישי חינם לבחירת הכלי המתאים לך ביותר!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ba3bd1d3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ba3bd1d3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ba3bd1d3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-ba3bd1d3.zappy5.app/contact
+- Endpoint: https://-ba3bd1d3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קהת
+KEHAT is a premium ethnic instrument rental service designed to make learning beautiful, complex traditional instruments accessible to beginners. The brand blends cultural richness with modern premium aesthetics — evoking the warmth of handcrafted instruments, artisan materials, and centuries-old musical traditions from Turkish and Persian cultures. The visual identity is sophisticated and tangible, using sculpted 3D claymorphism design with polished wood grain, stone plinths, and brushed gold accents to communicate both quality and approachability. KEHAT positions itself as a trusted guide for newcomers, offering inspected high-quality instruments at unbeatable rental prices with expert, supportive service.
+
+## Target Audience
+- Beginners who want to learn traditional ethnic instruments without the financial risk of purchasing
+- חובבי כלי נגינה אתניים מתחילים
+- תלמידי מוזיקה
+- מארגני אירועי תרבות
+
+## Industry
+Music & Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-ba3bd1d3.zappy5.app/sitemap.xml
+- Robots: https://-ba3bd1d3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-ba3bd1d3.zappy5.app/llms-full.txt
