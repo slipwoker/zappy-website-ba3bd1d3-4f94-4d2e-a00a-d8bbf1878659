@@ -1,4 +1,4 @@
-# קהת — Generative Engine Optimization Map
+# קהת - השכרת כלי נגינה אתניים — Generative Engine Optimization Map
 
 > KEHAT is a premium ethnic instrument rental service designed to make learning beautiful, complex traditional instruments accessible to beginners. The brand blends cultural richness with modern premium aesthetics — evoking the warmth of handcrafted instruments, artisan materials, and centuries-old musical traditions from Turkish and Persian cultures. The visual identity is sophisticated and tangible, using sculpted 3D claymorphism design with polished wood grain, stone plinths, and brushed gold accents to communicate both quality and approachability. KEHAT positions itself as a trusted guide for newcomers, offering inspected high-quality instruments at unbeatable rental prices with expert, supportive service.
 
@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: kehatethnic@gmail.com
+- Phone: 058-612-0998
+- Phone (tel): tel:0586120998
+- Address: גימזו, מרכז, 7313000, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
@@ -58,7 +61,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About קהת
+## About קהת - השכרת כלי נגינה אתניים
 KEHAT is a premium ethnic instrument rental service designed to make learning beautiful, complex traditional instruments accessible to beginners. The brand blends cultural richness with modern premium aesthetics — evoking the warmth of handcrafted instruments, artisan materials, and centuries-old musical traditions from Turkish and Persian cultures. The visual identity is sophisticated and tangible, using sculpted 3D claymorphism design with polished wood grain, stone plinths, and brushed gold accents to communicate both quality and approachability. KEHAT positions itself as a trusted guide for newcomers, offering inspected high-quality instruments at unbeatable rental prices with expert, supportive service.
 
 ## Target Audience
